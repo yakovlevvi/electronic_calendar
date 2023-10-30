@@ -1,0 +1,1 @@
+pyinstaller --onefile -F -w --icon=files\calendar.ico --clean electronic_calendar.py
